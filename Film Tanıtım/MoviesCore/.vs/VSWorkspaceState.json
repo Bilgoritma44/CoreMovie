@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MoviesCore",
+    "\\MoviesCore\\Views",
+    "\\MoviesCore\\Views\\Register",
+    "\\MoviesCore\\Views\\Shared",
+    "\\MoviesCore\\Views\\Shared\\Components",
+    "\\MoviesCore\\Views\\Shared\\Components\\LoginAndRegister",
+    "\\MoviesCore\\Views\\Shared\\Components\\Management"
+  ],
+  "SelectedNode": "\\MoviesCore\\Views\\Register\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

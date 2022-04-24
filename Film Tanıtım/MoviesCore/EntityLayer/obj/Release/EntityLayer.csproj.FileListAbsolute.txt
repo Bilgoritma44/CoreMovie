@@ -1,0 +1,6 @@
+C:\Users\Erkan Çalışkan\source\repos\MoviesCore\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Erkan Çalışkan\source\repos\MoviesCore\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Erkan Çalışkan\source\repos\MoviesCore\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Erkan Çalışkan\source\repos\MoviesCore\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Erkan Çalışkan\source\repos\MoviesCore\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Erkan Çalışkan\source\repos\MoviesCore\EntityLayer\obj\Release\EntityLayer.pdb
